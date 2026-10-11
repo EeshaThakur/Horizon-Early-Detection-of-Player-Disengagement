@@ -1,0 +1,7 @@
+Priority,Focus Area,Suggestion
+High,Progression and goals,"Test clearer milestones, balanced challenges, and meaningful progression rewards."
+Medium,Player experience,"Explore optional missions, varied gameplay, and feedback on player satisfaction."
+Investigate,Session behavior,Analyze session length and frequency patterns. Use time-series data to detect actual changes over time.
+Investigate,Achievements and rewards,Investigate whether achievement design and rewards are associated with different engagement categories.
+Investigate,Progression system,"Review level progression, difficulty balance, and opportunities for players to advance."
+Investigate,Behavior: categorical__gender_female,Investigate how categorical__gender_female relates to engagement and validate possible improvements through testing.

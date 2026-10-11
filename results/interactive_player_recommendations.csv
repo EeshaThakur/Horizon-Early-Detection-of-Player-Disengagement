@@ -1,0 +1,6 @@
+Engagement,PredictionConfidence,Feature,FocusArea,PlayerValue,ClassAverage,Comparison,DeveloperSuggestion
+Low,0.9082,PlayerLevel,Player progression,5.0,46.09,Below predicted-class average,Review progression milestones and difficulty balance.
+Low,0.9082,AchievementsUnlocked,Achievements and rewards,2.0,22.58,Below predicted-class average,Review achievement accessibility and reward relevance.
+Low,0.9082,SessionsPerWeek,Session patterns,2.0,4.53,Below predicted-class average,Investigate session frequency and gather player feedback.
+Low,0.9082,AvgSessionDurationMinutes,Session experience,25.0,66.85,Below predicted-class average,Investigate session patterns without assuming longer sessions are automatically better.
+Low,0.9082,InGamePurchases,Purchasing behavior,0.0,0.19,Below predicted-class average,Investigate purchasing patterns without encouraging spending.

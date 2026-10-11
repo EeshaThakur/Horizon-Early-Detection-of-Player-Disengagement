@@ -1,0 +1,2 @@
+Age,Gender,Location,GameGenre,PlayTimeHours,InGamePurchases,GameDifficulty,SessionsPerWeek,AvgSessionDurationMinutes,PlayerLevel,AchievementsUnlocked,PredictedEngagement,PredictionConfidence,Probability_High,Probability_Low,Probability_Medium
+28.0,Male,Europe,Strategy,3.0,0.0,Easy,2.0,25.0,5.0,2.0,Low,0.9081711769104004,0.05490456148982048,0.9081711769104004,0.03692428767681122
