@@ -1,0 +1,32 @@
+# Data processing
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and model evaluation
+scikit-learn
+xgboost
+joblib
+
+# PDF report generation
+reportlab
+
+# Jupyter Notebook environment
+jupyter
+ipykernel
+
+# Excel file support (optional)
+openpyxl
+
+# Class imbalance handling (optional)
+imbalanced-learn
+
+#scikit-learn MLPClassifier: No additional deep learning framework is required.
+#TensorFlow/Keras model: 
+tensorflow
+
+#PyTorch model: 
+torch
