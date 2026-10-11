@@ -337,7 +337,9 @@ These are proposed extensions and are not claims that the features are already i
 
 ## 16. Project Team
 
-Update this section with the **confirmed team members and roll numbers** before submission.
+CSE0016 
+CSE0050
+CSE0052
 
 ## 17. References
 
